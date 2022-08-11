@@ -5,7 +5,6 @@
 import java.util.HashMap;
 import java.util.Scanner;
 
-import org.w3c.dom.stylesheets.MediaList;
 
 
 
@@ -46,7 +45,7 @@ public class Bibliotheque{
         // //les adherants
         // AdherantsLists.put(
         //     "15F5",
-        //     new Adherants("15F5", "Moh", "Im")
+        //     new Adherants("15F5", "IM", "Sama")
         // );
         // AdherantsLists.put(
         //     "G251",
@@ -54,7 +53,7 @@ public class Bibliotheque{
         // );
         // AdherantsLists.put(
         //     "329X",
-        //     new Adherants("329X", "Moubid", "Anglo-Saxons")
+        //     new Adherants("329X", "Micro, "Club")
         // );
         
 
@@ -65,7 +64,7 @@ public class Bibliotheque{
         // );
         // MediasLists.put(
         //     "002",
-        //     new CD("002", "To colonize Whites.")
+        //     new CD("002", "For glory of Islamic Caliphate.")
         // );
         // MediasLists.put(
         //     "003",
