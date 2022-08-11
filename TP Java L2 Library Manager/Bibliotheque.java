@@ -5,9 +5,6 @@
 import java.util.HashMap;
 import java.util.Scanner;
 
-
-
-
 public class Bibliotheque{
 
     static HashMap<String, Adherants> AdherantsLists = new HashMap<String, Adherants>();
